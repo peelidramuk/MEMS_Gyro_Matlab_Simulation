@@ -1,0 +1,5 @@
+experiment : silicon_cantilever
+damping_coefficients:
+  material: silicon
+  viscous_damping: 0.03
+  structural damping: 0.015
